@@ -1,0 +1,218 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"iter",
+				"iterskill"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"previ",
+				"Markdown Preview: Preview in Browser"
+			]
+		],
+		"width": 557.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"1+1",
+			"python",
+			"import pandas as pd"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": true,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/roman/Dropbox/PhD/Python Snipplets/Mongo-cloud-handling.py",
+		"/Users/roman/anaconda3/pkgs/scipy-0.19.1-py36h3e758e1_3/lib/python3.6/site-packages/scipy/linalg/decomp_qr.py",
+		"/Users/roman/OneDrive - Aalborg Universitet/other teaching/HA-Beskrivende-Statistik-2018/README.md",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/nomads_2017_expl.py",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/nomad_explore.py",
+		"/Users/roman/Dropbox/GVC-IS2/GVC_V2.py",
+		"/Users/roman/Downloads/worldcitiespop.txt",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/nomad_joint_script.py",
+		"/Users/roman/OneDrive - Aalborg Universitet/patents/refroman.bib",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/geoloc_example.py",
+		"/Users/roman/Desktop/text",
+		"/Users/roman/OneDrive - Aalborg Universitet/mike/M4B/M4B_1.md",
+		"/Users/roman/Dropbox/to reader/bladerunner_tech_bal.txt",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/LinkedIn_nomads_toMongo.py",
+		"/Users/roman/Dropbox/PhD/GVC_IS/NLP/history_IS_GVC.py",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/nomadlist.py",
+		"/Users/roman/Downloads/mendeley.bib",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/twitter_f_and_f.py",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/new_technology_evolution.py",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/followers_friends_twitter_raphael.py",
+		"/Users/roman/Desktop/theory enhancing",
+		"/Users/roman/Desktop/Meeting with KU : CBS - Project Start up",
+		"/Users/roman/Desktop/AP-todo_moodle.mdown",
+		"/Users/roman/Desktop/IS&gvc for anniv.mdown",
+		"/Users/roman/Desktop/2012B8009412026",
+		"/Users/roman/Desktop/books_luis.txt",
+		"/Users/roman/Desktop/Data Science with BG.txt",
+		"/Users/roman/Desktop/bib.bib",
+		"/Users/roman/Downloads/output-4.aux",
+		"/Users/roman/Desktop/bib.xml",
+		"/Users/roman/Downloads/multiTimeline.csv",
+		"/Users/roman/Desktop/history_hashtags.py",
+		"/Users/roman/Desktop/nomad_friendship_network_extract.py",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/MIKE_demo2016.py",
+		"/Users/roman/Dropbox/africalics_datascience/jeri_africa.py",
+		"/Users/roman/anaconda/lib/python3.6/site-packages/jupyter_client/launcher.py",
+		"/Users/roman/anaconda/lib/python3.6/site-packages/jupyter_client/manager.py",
+		"/Users/roman/anaconda/lib/python3.6/subprocess.py",
+		"/Users/roman/Downloads/text8",
+		"/Users/roman/Downloads/glove.bib",
+		"/Users/roman/Desktop/GVC_citespace_test/data/download.txt",
+		"/Users/roman/Desktop/pranayama.mdown",
+		"/Users/roman/Dropbox/PhD/Python Snipplets/linked_in_scraping_session.py"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "agenda.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
