@@ -14,3 +14,9 @@ Why social? On ethics, bias and other things beyond IT
 
 [Ecosystem (Part 1)](https://rawgit.com/SDS-AAU/Intro-2018/master/slides/ecosystem1.html)
 
+[Ecosystem (Part 2)](https://rawgit.com/SDS-AAU/Intro-2018/master/slides/ecosystem2.html)
+
+[Datasources and Knowledge resources](https://rawgit.com/SDS-AAU/Intro-2018/master/slides/resources.html)
+
+
+
